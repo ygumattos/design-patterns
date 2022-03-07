@@ -2,7 +2,7 @@
 
 ## Behaviroal
 - [x] Strategy  
-- [ ] Observer  
+- [x] Observer  
 ## Structural
 - [ ] Adapter  
 - [ ] Facade  
