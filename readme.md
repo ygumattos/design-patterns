@@ -6,7 +6,7 @@
 ## Structural
 - [x] Adapter  
 - [ ] Facade  
-- [ ] Decorator  
+- [x] Decorator  
 ## Creational
 - [ ] Factory  
 - [ ] Builder  
