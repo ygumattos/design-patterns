@@ -4,8 +4,9 @@
 - [x] Strategy  
 - [x] Observer  
 ## Structural
-- [ ] Adapter  
+- [x] Adapter  
 - [ ] Facade  
+- [ ] Decorator  
 ## Creational
 - [ ] Factory  
 - [ ] Builder  
