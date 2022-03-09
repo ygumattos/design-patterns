@@ -5,7 +5,7 @@
 - [x] Observer  
 ## Structural
 - [x] Adapter  
-- [ ] Facade  
+- [x] Facade  
 - [x] Decorator  
 ## Creational
 - [ ] Factory  
