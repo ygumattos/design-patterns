@@ -9,5 +9,5 @@
 - [x] Decorator  
 ## Creational
 - [ ] Factory  
-- [ ] Builder  
+- [x] Builder  
 - [ ] Singleton *
