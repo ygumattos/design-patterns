@@ -13,7 +13,6 @@ class Context {
     }
 
     public executeBusinessLogic(): void {
-
         console.log('Context: Sorting data using the strategy (not sure how it\'ll do it)');
         const result = this.strategy.execute(['a','b','c','d','e'])
         console.log(result.join(','))

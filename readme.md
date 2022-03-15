@@ -13,3 +13,6 @@
 - [x] Singleton *
 
 ***Singleton's considered a anti-pattern**
+***
+## **Reviewed:** ✅ 
+* 15/03/22
