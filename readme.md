@@ -8,6 +8,8 @@
 - [x] Facade  
 - [x] Decorator  
 ## Creational
-- [ ] Factory  
+- [x] Factory  
 - [x] Builder  
-- [ ] Singleton *
+- [x] Singleton *
+
+***Singleton's considered a anti-pattern**
