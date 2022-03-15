@@ -1,4 +1,4 @@
-# Repository to study about Design Patterns
+# Repository for studying about Design Patterns
 
 ## Behaviroal
 - [x] Strategy  
